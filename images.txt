@@ -1,1 +1,10 @@
 tdengine/tdengine:3.3.2.0
+nginx
+ssrf_proxy
+worker
+redis
+weaviate
+sandbox
+web
+db
+api
