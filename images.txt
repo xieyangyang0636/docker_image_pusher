@@ -2,6 +2,7 @@ tdengine/tdengine:3.3.2.0
 langgenius/dify-api:0.9.1
 langgenius/dify-sandbox:0.2.9
 langgenius/qdrant:v1.7.3
+langgenius/dify-web:0.9.1
 postgres:15-alpine
 redis:6-alpine
 ubuntu/squid:latest
