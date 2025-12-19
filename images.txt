@@ -15,7 +15,6 @@ oceanbase/oceanbase-ce:4.3.5-lts
 oceanbase/seekdb:latest
 langgenius/qdrant:v1.8.3
 pgvector/pgvector:pg16
-vastdata/vastbase-vector
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ghcr.io/chroma-core/chroma:0.5.20
 container-registry.oracle.com/database/free:latest
@@ -30,4 +29,3 @@ matrixorigin/matrixone:2.1.1
 docker.elastic.co/elasticsearch/elasticsearch:8.14.3
 docker.elastic.co/kibana/kibana:8.14.3
 downloads.unstructured.io/unstructured-io/unstructured-api:latest
-
